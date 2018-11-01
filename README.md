@@ -1,2 +1,2 @@
-# modest-images
-A custom post type for images that stays out of the way.
+# Modest Images
+A modest approach to adding a custom post type for images.
